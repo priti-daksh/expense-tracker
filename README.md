@@ -32,7 +32,8 @@ Priti Daksh
 
 <img width="1360" height="638" alt="register" src="https://github.com/user-attachments/assets/8f6a2fe9-75c7-4be0-983e-075951737a99" />
 
-<img width="1358" height="636" alt="dashboard ex" src="https://github.com/user-attachments/assets/54230572-e019-44c4-842e-58aae017596a" />
+![dashboard ex](https://github.com/user-attachments/assets/ab5f78b1-9b6b-4dff-84d6-d33d04735839)
+
 
 
 
