@@ -24,3 +24,6 @@ Expense Tracker is a web application that helps users manage and track their dai
 
 ## Author
 Priti Daksh
+
+## Project Screenshot
+![Expense Tracker Screenshot](screenshot.png)
